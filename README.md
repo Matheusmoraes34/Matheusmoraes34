@@ -4,10 +4,13 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div> 
 
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/matheusmoraes34/matheusmoraes34/output/pacman-contribution-graph.svg" 
-    alt="Pac-Man Contribution Graph">
-</div>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheusmoraes34/Matheusmoraes34/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheusmoraes34/Matheusmoraes34/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Matheusmoraes34/Matheusmoraes34/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 <!-- Presentation -->
 <p>
   Oi 👋, Eu sou o Matheus ! Um estudante de Analise e desenvolvimento de sistema apaixonado pela tecnologia.
