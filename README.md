@@ -23,7 +23,7 @@
 
   - 💬 Tenho 23 anos moro em Maringá-PR Brasil, Trabalho em tempo integral e estudo no periodo noturno na universidade uninga tenho experiencias academicas em JavaScript, SQL, Python, HTML, CSS, C++, PhpMyAdmin, MySQL.
 
-  - ⚡ Meus hobby favorito é jogar, assistir filmes e passar maior tempo com minha familia e um detalho super importante, é que eu adoro cozinhar e fazer varios tipos de comidas diferentes.
+  - ⚡ Meus hobby favorito é jogar, assistir filmes e passar maior tempo com minha familia, Adoro cozinhar e fazer varios tipos de comidas diferentes.
     </p>
 </details>
 
