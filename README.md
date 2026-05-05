@@ -13,15 +13,15 @@
 ###
 <!-- Presentation -->
 <p>
-  Oi 👋, Eu sou o Matheus ! Um estudante de Analise e desenvolvimento de sistema apaixonado pela tecnologia.
+  Oi 👋, Eu sou o Matheus ! Recém formado em Analise e desenvolvimento de sistema apaixonado pela tecnologia.
 
-  - 🌱 Estou no ultimo ano da faculdade.
+  - 🌱 Estudando Pós-Graduação em Engenharia de software.
 
-  - 🔭 Estou em busca da minha primeira oportunidade de emprego como Dev Front-end.
+  - 🔭 Estou em busca da minha primeira oportunidade de emprego como Dev ou Suporte.
 
   <summary>👨‍💻 Um pouco mais sobre mim </summary>
 
-  - 💬 Tenho 23 anos moro em Maringá-PR Brasil, Trabalho em tempo integral e estudo no periodo noturno na universidade uninga tenho experiencias academicas em JavaScript, SQL, Python, HTML, CSS, C++, PhpMyAdmin, MySQL.
+  - 💬 Tenho 24 anos moro em Maringá-PR Brasil, Trabalho em tempo integral e estudo no periodo noturno na universidade uninga tenho experiencias academicas em JavaScript, SQL, Python, HTML, CSS, C++, PhpMyAdmin, MySQL.
 
   - ⚡ Meus hobby favorito é jogar, assistir filmes e passar maior tempo com minha familia, Adoro cozinhar e fazer varios tipos de comidas diferentes.
     </p>
